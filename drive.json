@@ -6,7 +6,7 @@
         "answer2":"占对向车道超越",
         "answer3":"从前车右侧超越",
         "answer4":"跟在前车后行驶",
-        "right_answer":"D",
+        "right_answer":"4",
         "imge_url":"https://oopsstack.github.io/static/image/1331.jpg",
         "explain":"遇到这种情况时，不能超车，跟在前车后行驶时最明智的决定。"
     },
@@ -17,7 +17,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"D",
+        "right_answer":"4",
         "imge_url":"https://oopsstack.github.io/static/image/9331.jpg",
         "explain":"雾天当然要开雾灯了~记住就可以了，其他图标是什么？去“交通标志”里学习一遍吧。"
     },
@@ -28,7 +28,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"C",
+        "right_answer":"3",
         "imge_url":"https://oopsstack.github.io/static/image/9330.jpg",
         "explain":"记住就可以了，其他图标是什么？去“交通标志”里学习一遍吧。"
     },
@@ -39,7 +39,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"D",
+        "right_answer":"4",
         "imge_url":"https://oopsstack.github.io/static/image/9328.jpg",
         "explain":"燃油表上有个加油站里的加油机的标志"
     },
@@ -50,7 +50,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"C",
+        "right_answer":"3",
         "imge_url":"https://oopsstack.github.io/static/image/9327.jpg",
         "explain":"水温表上有个温度标志"
     },
@@ -61,7 +61,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"B",
+        "right_answer":"2",
         "imge_url":"https://oopsstack.github.io/static/image/9326.jpg",
         "explain":"速度和里程表的刻度标记一般超过两位数"
     },
@@ -72,7 +72,7 @@
         "answer2":"图2",
         "answer3":"图3",
         "answer4":"图4",
-        "right_answer":"A",
+        "right_answer":"1",
         "imge_url":"https://oopsstack.github.io/static/image/9325.jpg",
         "explain":"转速表刻度不会超过两位数"
     }
